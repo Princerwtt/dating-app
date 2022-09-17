@@ -1,0 +1,28 @@
+header {
+  background-color: aqua;
+  border: 2px solid green;
+  height: 100px;
+}
+
+.menu {
+  list-style-type: none;
+}
+
+.menu > li {
+  float: left;
+  padding: 20px;
+}
+
+.menu > li > a {
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color: darkred;
+}
+img {
+  height: fit-content;
+  width: fit-content;
+}
+div {
+  background-color: aqua;
+}
